@@ -16,6 +16,8 @@ _**Page2.HTML:**_
 ## LightHouse _SEO_ Optimization Reports
 ### After Action Taken
 _**Index.HTML:**_
+![image](https://user-images.githubusercontent.com/66642402/208561627-89dcca38-30fc-46e0-a588-ee0187ab38da.png)
 
 
 _**Page2.HTML:**_
+![image](https://user-images.githubusercontent.com/66642402/208561602-17ca01b3-28b5-4910-8543-81fdfbc827cb.png)
